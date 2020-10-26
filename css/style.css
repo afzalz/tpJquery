@@ -1,0 +1,49 @@
+.container{
+    
+    display: flex;
+    flex-direction: row;
+    background: rgb(59, 181, 185);
+    
+}
+
+.card
+{
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+#red{
+    background: red;
+}
+
+#blue{
+    background: blue;
+}
+
+#pink{
+    background: pink;
+}
+
+#orange{
+    background: orange;
+}
+
+#yellow{
+    background: yellow;
+}
+
+#green
+{
+    background: green;
+}
+
+.photo
+{
+    width: 150px;
+    height: 150px;
+    margin-top: 5px;
+}
